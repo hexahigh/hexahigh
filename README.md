@@ -1,7 +1,7 @@
 <pre>
     Hello im Boof/Boofdev.
     I enjoy coding and playing video games.
-    My real name is Simon and i come from Norway🇳🇴.
+    My name is Simon and i come from Norway🇳🇴.
     You can contact me at <a href="https://boofdev.eu">boofdev.eu</a>.
     You can donate to me at <a href="https://patreon.com/boofdev">patreon.com/boofdev</a>.
     I am open for commisions and i can make a website or a program for you.
