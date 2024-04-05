@@ -1,5 +1,6 @@
 <pre>
     Hello im Boofdev.
+    Im the lead developer at <a href="https://blalange.org">Blålange festivalen</a>.
     I enjoy coding and playing video games.
     My name is Simon and i come from Norway🇳🇴.
     You can contact me at <a href="https://boofdev.eu">boofdev.eu</a>.
