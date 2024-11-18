@@ -1,8 +1,7 @@
 <pre>
-    Hello im Boofdev.
-    Im the lead developer at <a href="https://blalange.org">Blålange</a>.
-    I enjoy coding and playing video games.
-    My name is Simon and i come from Norway🇳🇴.
+    Hello im Simon!
+    Im the lead developer and co-founder of <a href="https://blalange.org">Blålange</a>.
+    Im a hobby programmer who likes making websites and cli apps.
     You can contact me at <a href="https://boofdev.eu">boofdev.eu</a>.
 </pre>
 ## My skills
