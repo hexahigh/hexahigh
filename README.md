@@ -1,7 +1,7 @@
 <pre>
-    Hello im Simon!
-    Im the lead developer and co-founder of <a href="https://blalange.org">Blålange</a>.
-    Im a hobby programmer who likes making websites and cli apps.
+    Hello I'm Simon!
+    I'm the lead developer and co-founder of <a href="https://blalange.org">Blålange</a>.
+    I'm a hobbyist programmer who likes making websites and cli apps.
     You can contact me at <a href="https://boofdev.eu">boofdev.eu</a>.
 </pre>
 ## My skills
